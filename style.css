@@ -1,0 +1,42 @@
+#First {
+    /* background-color: black; */
+    border: double;
+    color: green;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 14px;
+    text-align: justify;
+    margin: 20px;
+    padding: 30px;
+}
+
+#Third {
+    /* background-color: orange; */
+    border: solid;
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 14px;
+    text-align: justify;
+    margin: 20px;
+    padding: 30px;
+}
+
+#Second {
+    /* background-color: rgb(63, 20, 220); */
+    border: dotted;
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 14px;
+    text-align: justify;
+    margin: 20px;
+    padding: 30px;
+}
+
+.Parent {
+    background-color: white;
+    margin: 100px;
+    border: groove;
+    padding: 20px;
+}
